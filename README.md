@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Võ Quốc Bảo]
+# 👋 Hi, I'm Võ Quốc Bảo
 
 🎓 **Information Security Student @ University of Information Technology (UIT)** – Year 3  
 🔒 **Offensive Security Enthusiast** | Red Teaming | Penetration Testing | Exploit Development  
