@@ -7,9 +7,13 @@
 ---
 
 ## 🛡️ About Me
+
 I’m passionate about **Offensive Security, Penetration Testing and Red Team operations**.
+
 I continuously sharpen my skills through CTF competitions, hands-on labs, and building my own security tools/scripts.  
+
 My goal is to **join a professional Red Team** where I can contribute to realistic attack simulations and help organizations strengthen their defenses.
+
 I'm here to make the Internet a better and safer place.
 
 ---
